@@ -1,4 +1,4 @@
-# Boilerplate Card by [@iantrich](https://www.github.com/iantrich)
+# Custom Compact Climate CArd by [@broadcasttechie](https://www.github.com/broadcasttechie)
 
 A community driven boilerplate of best practices for Home Assistant Lovelace custom cards
 
