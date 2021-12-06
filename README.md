@@ -22,7 +22,7 @@ Hey dude! Help me out for a couple of :beers: or a :coffee:!
 
 | Name              | Type    | Requirement  | Description                                 | Default             |
 | ----------------- | ------- | ------------ | ------------------------------------------- | ------------------- |
-| type              | string  | **Required** | `custom:boilerplate-card`                   |
+| type              | string  | **Required** | `custom:compact-climate-card`                   |
 | name              | string  | **Optional** | Card name                                   | `Boilerplate`       |
 | show_error        | boolean | **Optional** | Show what an error looks like for the card  | `false`             |
 | show_warning      | boolean | **Optional** | Show what a warning looks like for the card | `false`             |
